@@ -1,2 +1,2 @@
 # Fast-food-fast-Django-graphql
-Fasst foo application in Django and graphql
+Fasst food application in Django and graphql
